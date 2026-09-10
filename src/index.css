@@ -66,10 +66,7 @@ button {
     padding: 30px 36px 60px;
 }
 
-.page {
-    display: none;
-}
-.page.active {
+.page{
     display: block;
     max-width: 980px;
 }
